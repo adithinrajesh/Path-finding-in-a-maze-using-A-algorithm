@@ -1,5 +1,5 @@
 # Path-finding-in-a-maze-using-A-star-algorithm
-A project designed to implement the A* algorithm to preprocess it,  find the path in a maze image and display the path. The A* algorithm is an algorithm used in Artificial Intelligence for pathfinding and graph traversal. It efficiently finds the shortest path from a starting point to a goal in a weighted graph, utilizing a heuristic to guide the search and optimize the exploration process.
+A project designed to implement the A* algorithm to preprocess a maze image, find the path in the maze and display the path. The A* algorithm is an algorithm used in Artificial Intelligence for pathfinding and graph traversal. It efficiently finds the shortest path from a starting point to a goal in a weighted graph, utilizing a heuristic to guide the search and optimize the exploration process.
 Code explanation:
 1. Opening the image.
 2. Converting the image to grayscale.
